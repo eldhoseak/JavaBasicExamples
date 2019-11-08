@@ -8,7 +8,7 @@ public class IfConditionDemo {
 		if(age>60){
 		System.out.println("senior citizen");	
 		}else if(age>50){
-			System.out.println("not so young citizen");
+			System.out.println("middle age citizen");
 		}else{
 			System.out.println("young citizen");
 		}
