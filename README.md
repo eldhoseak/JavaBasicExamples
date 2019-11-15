@@ -1,4 +1,5 @@
-# JavaBasicExamples  https://github.com/eldhoseak/JavaBasicExamples/workflows/Java%20CI/badge.svg
+# JavaBasicExamples  
+https://github.com/eldhoseak/JavaBasicExamples/workflows/BUILD/badge.svg
 
 This repository contains basic Java programs. Mainly used for training purpose.
 
