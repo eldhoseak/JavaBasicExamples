@@ -1,5 +1,7 @@
 # JavaBasicExamples  
-https://github.com/eldhoseak/JavaBasicExamples/workflows/BUILD/badge.svg
+
+![GitHub Actions status | sdras/awesome-actions](https://github.com/eldhoseak/JavaBasicExamples/workflows/BUILD/badge.svg)
+
 
 This repository contains basic Java programs. Mainly used for training purpose.
 
