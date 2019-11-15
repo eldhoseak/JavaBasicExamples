@@ -4,7 +4,7 @@ public class UseAccount {
 	public static void main(String args[])
 	{
 		//Savings Account
-		SavingsAccount sa=new SavingsAccount("Madhu",10000,1500);
+		SavingsAccount sa=new SavingsAccount1("Madhu",10000,1500);
 		
 		
 		System.out.println("Initial Information is : " + sa.showDetails());
