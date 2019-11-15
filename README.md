@@ -5,9 +5,9 @@ This repository contains basic Java programs. Mainly used for training purpose.
 
 ASSIGNMENTS ON STRING AND ARRAYS.
 
-==============================
+========================
 STRING ASSIGNMENT
-==============================
+========================
 
 
 A. The string has a s.toCharArray() method that can be used for converting string
