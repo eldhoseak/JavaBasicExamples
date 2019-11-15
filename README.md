@@ -1,4 +1,4 @@
-# JavaBasicExamples  ![GitHub Actions status | sdras/awesome-actions](https://github.com/eldhoseak/JavaBasicExamples/workflows/BUILD/badge.svg)
+# JavaBasicExamples  ![GitHub Actions status](https://github.com/eldhoseak/JavaBasicExamples/workflows/BUILD/badge.svg)
 
 
 
