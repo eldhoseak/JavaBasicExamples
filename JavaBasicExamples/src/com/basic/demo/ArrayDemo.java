@@ -1,4 +1,4 @@
-package com.demo;
+package com.basic.demo;
 
 public class ArrayDemo {
 /*
